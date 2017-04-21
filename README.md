@@ -6,14 +6,16 @@ It has land resources in cyberspace that can be bought and sold like ordinary re
 
 The land can be viewed in virtual reality system running on modern web browser.
 
-[The vision](vision.html)
+*[The vision](vision.html)
 
-[How it works?](how.html)
+*[How it works?](how.html)
 
-[Technical draft](tech.html)``
+*[Technical draft](tech.html)
 
 ## Contact
 
 Albrekt Pehmoheijastin, Treasurer
 
 _avosuo.treasury[at]gmail.com_
+
+
